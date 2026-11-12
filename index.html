@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Free Sandbag Locations</title>
+  <link rel="stylesheet" href="./style.css">
+  <link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/v3.15.0/mapbox-gl.css'>
+</head>
+
+  <body>
+    <h1 class="map-heading">Free Sandbag Locations</h1>
+    <h2 class="map-subtitle">Alameda &amp; Contra Costa Counties | Cartographer: Isaac Klein | 2026 | Data: CORE</h2>
+
+<button id="data-info-btn" class="data-info-button">📊 Data Context</button>
+
+<div id="data-panel" class="data-panel">
+  <button class="close-panel">✕</button>
+  <h3>About This Data</h3>
+  <p><strong>Source:</strong> City, county and water agency sandbag pages, the ALCO VOAD flooding resources list, 211 Alameda County and Contra Costa County Public Works. Checked November 10–11, 2026.</p>
+  <p><strong>Before You Go:</strong></p>
+  <ul>
+    <li>Most sites serve only residents of that city, or of unincorporated county areas</li>
+    <li>Supplies run out during storms and most sites are unstaffed</li>
+    <li>Call the number in the pop-up to confirm before driving over</li>
+  </ul>
+  <p><strong>Not Shown:</strong> Three sites with no street address (two sand stations in Martinez and one in Sunol). Hercules and Discovery Bay have <em>no confirmed site</em> this season.</p>
+</div>
+
+    <div id="map"></div>
+
+    <script src="https://api.mapbox.com/mapbox-gl-js/v3.15.0/mapbox-gl.js"></script>
+    <script src="./script.js"></script>
+  </body>
+</html>

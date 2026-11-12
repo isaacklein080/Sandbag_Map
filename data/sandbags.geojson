@@ -1,0 +1,1559 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.881108,
+     37.596523
+    ]
+   },
+   "properties": {
+    "name": "Alameda County Fire Station 14",
+    "city": "Unincorporated Alameda County",
+    "county": "Alameda",
+    "address": "11345 Pleasanton Sunol Rd, Sunol, CA 94586",
+    "notes": "24/7, outside the gate, once the first major storm of the season is forecast. Self-serve; bring your own shovel.",
+    "who": "Residents of unincorporated Alameda County (Castro Valley, San Lorenzo, Ashland, Cherryland, Fairview, Hayward Acres, Sunol)",
+    "limit": "5 per household",
+    "phone": "(510) 670-5480",
+    "website": "https://www.acpwa.org/prepare-for-winter-storms/"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.053687,
+     37.702792
+    ]
+   },
+   "properties": {
+    "name": "Alameda County Fire Station 6",
+    "city": "Unincorporated Alameda County",
+    "county": "Alameda",
+    "address": "19780 Cull Canyon Rd, Castro Valley, CA 94552",
+    "notes": "24/7, outside the gate, once the first major storm of the season is forecast. Self-serve; bring your own shovel.",
+    "who": "Residents of unincorporated Alameda County (Castro Valley, San Lorenzo, Ashland, Cherryland, Fairview, Hayward Acres, Sunol)",
+    "limit": "5 per household",
+    "phone": "(510) 670-5480",
+    "website": "https://www.acpwa.org/prepare-for-winter-storms/"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.882434,
+     37.714572
+    ]
+   },
+   "properties": {
+    "name": "Alameda County Public Works – Dublin yard",
+    "city": "Unincorporated Alameda County",
+    "county": "Alameda",
+    "address": "6089 Madigan Rd, Dublin, CA 94568",
+    "notes": "24/7, outside the gate, once the first major storm of the season is forecast. Self-serve; bring your own shovel.",
+    "who": "Residents of unincorporated Alameda County (Castro Valley, San Lorenzo, Ashland, Cherryland, Fairview, Hayward Acres, Sunol)",
+    "limit": "5 per household",
+    "phone": "(510) 670-5480",
+    "website": "https://www.acpwa.org/prepare-for-winter-storms/"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.097697,
+     37.64731
+    ]
+   },
+   "properties": {
+    "name": "Alameda County Public Works – Hayward yard",
+    "city": "Unincorporated Alameda County",
+    "county": "Alameda",
+    "address": "951 Turner Ct, Hayward, CA 94545",
+    "notes": "24/7, outside the gate, once the first major storm of the season is forecast. Self-serve; bring your own shovel.",
+    "who": "Residents of unincorporated Alameda County (Castro Valley, San Lorenzo, Ashland, Cherryland, Fairview, Hayward Acres, Sunol)",
+    "limit": "5 per household",
+    "phone": "(510) 670-5480",
+    "website": "https://www.acpwa.org/prepare-for-winter-storms/"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.889969,
+     37.596543
+    ]
+   },
+   "properties": {
+    "name": "Little Brown Church of Sunol",
+    "city": "Unincorporated Alameda County",
+    "county": "Alameda",
+    "address": "141 Kilkare Rd, Sunol, CA 94586",
+    "notes": "24/7, outside the gate, once the first major storm of the season is forecast. Self-serve; bring your own shovel.",
+    "who": "Residents of unincorporated Alameda County (Castro Valley, San Lorenzo, Ashland, Cherryland, Fairview, Hayward Acres, Sunol)",
+    "limit": "5 per household",
+    "phone": "(510) 670-5480",
+    "website": "https://www.acpwa.org/prepare-for-winter-storms/"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.304483,
+     37.787391
+    ]
+   },
+   "properties": {
+    "name": "Alameda Point",
+    "city": "Alameda",
+    "county": "Alameda",
+    "address": "Lexington St at W Hope St, Alameda, CA 94501",
+    "notes": "Self-serve, any time. Pre-filled bags, or bring your own bags to fill.",
+    "who": "City of Alameda residents",
+    "limit": "5 pre-filled bags per resident; fill more yourself if you bring bags",
+    "phone": "(510) 747-7900",
+    "website": "https://www.alamedaca.gov/READY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.236354,
+     37.744798
+    ]
+   },
+   "properties": {
+    "name": "Grandview Pavilion (Bay Farm Island)",
+    "city": "Alameda",
+    "county": "Alameda",
+    "address": "300 Island Dr, Alameda, CA 94502",
+    "notes": "Self-serve, any time. Pre-filled bags, or bring your own bags to fill.",
+    "who": "City of Alameda residents",
+    "limit": "5 pre-filled bags per resident; fill more yourself if you bring bags",
+    "phone": "(510) 747-7900",
+    "website": "https://www.alamedaca.gov/READY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.273907,
+     37.768599
+    ]
+   },
+   "properties": {
+    "name": "Washington Park",
+    "city": "Alameda",
+    "county": "Alameda",
+    "address": "1300 8th St, Alameda, CA 94501",
+    "notes": "Self-serve, any time. Pre-filled bags, or bring your own bags to fill.",
+    "who": "City of Alameda residents",
+    "limit": "5 pre-filled bags per resident; fill more yourself if you bring bags",
+    "phone": "(510) 747-7900",
+    "website": "https://www.alamedaca.gov/READY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.302749,
+     37.886737
+    ]
+   },
+   "properties": {
+    "name": "Ocean View Park parking lot",
+    "city": "Albany",
+    "county": "Alameda",
+    "address": "900 Buchanan St, Albany, CA 94706",
+    "notes": "24/7. Fill your own: sand is at the park; bring a shovel (none on site).",
+    "who": "Albany residents; proof of residency required",
+    "limit": "10 per household",
+    "phone": "(510) 528-5770 (Albany Fire); (510) 524-9283 (Albany CARES, help getting pre-filled bags)",
+    "website": "https://www.albanyca.gov/Residents/Public-Safety/Sand-Bags"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.285188,
+     37.866414
+    ]
+   },
+   "properties": {
+    "name": "City Corporation Yard",
+    "city": "Berkeley",
+    "county": "Alameda",
+    "address": "1326 Allston Way, Berkeley, CA 94702",
+    "notes": "Monday–Friday 8 AM–3 PM during storm season. Limited supply, first come first served.",
+    "who": "Berkeley residents and businesses; bring ID or a business card",
+    "limit": "10 per household",
+    "phone": "(510) 981-6620 or 311",
+    "website": "https://berkeleyca.gov/safety-health/disaster-preparedness/winter-storm-preparedness"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.900324,
+     37.702501
+    ]
+   },
+   "properties": {
+    "name": "City Corporation Yard",
+    "city": "Dublin",
+    "county": "Alameda",
+    "address": "5709 Scarlett Ct, Dublin, CA 94568",
+    "notes": "24/7. Pre-filled bags; self-fill station with sand, bags and shovels if they run out.",
+    "who": "Dublin residents and businesses",
+    "limit": "10 per household or business",
+    "phone": "(925) 833-6630",
+    "website": "https://www.dublin.ca.gov/1597/Storm-Preparedness"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.294311,
+     37.840297
+    ]
+   },
+   "properties": {
+    "name": "City Corporation Yard (self-service station)",
+    "city": "Emeryville",
+    "county": "Alameda",
+    "address": "5890 Christie Ave, Emeryville, CA 94608",
+    "notes": "Self-serve.",
+    "who": "Emeryville residents",
+    "limit": "",
+    "phone": "(510) 596-4300",
+    "website": "https://www.emeryville.org/News/Weather-Advisory"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.949977,
+     37.524905
+    ]
+   },
+   "properties": {
+    "name": "City Maintenance Center",
+    "city": "Fremont",
+    "county": "Alameda",
+    "address": "42551 Osgood Rd, Fremont, CA 94539",
+    "notes": "Self-fill; bring a shovel.",
+    "who": "Fremont residents and businesses",
+    "limit": "10 per household or business",
+    "phone": "(510) 979-5700, option 7",
+    "website": "https://www.fremont.gov/government/departments/maintenance-operations/sandbags"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.05157,
+     37.566041
+    ]
+   },
+   "properties": {
+    "name": "Fire Station 10",
+    "city": "Fremont",
+    "county": "Alameda",
+    "address": "5001 Deep Creek Rd, Fremont, CA 94555",
+    "notes": "24/7. Self-fill; bring a shovel.",
+    "who": "Fremont residents and businesses",
+    "limit": "10 per household or business",
+    "phone": "(510) 979-5700, option 7",
+    "website": "https://www.fremont.gov/government/departments/maintenance-operations/sandbags"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.925903,
+     37.484896
+    ]
+   },
+   "properties": {
+    "name": "Fire Station 5",
+    "city": "Fremont",
+    "county": "Alameda",
+    "address": "55 Hackamore Ln, Fremont, CA 94539",
+    "notes": "24/7. Self-fill; bring a shovel.",
+    "who": "Fremont residents and businesses",
+    "limit": "10 per household or business",
+    "phone": "(510) 979-5700, option 7",
+    "website": "https://www.fremont.gov/government/departments/maintenance-operations/sandbags"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.088922,
+     37.657326
+    ]
+   },
+   "properties": {
+    "name": "City self-serve sandbag site",
+    "city": "Hayward",
+    "county": "Alameda",
+    "address": "16 Barnes Ct, Hayward, CA 94544",
+    "notes": "Self-serve 24/7 during wet weather; pre-filled bags restocked Monday–Friday 7 AM–2:30 PM. Pre-filled bags and self-fill.",
+    "who": "Hayward residents and businesses; bring ID",
+    "limit": "6 per household; 12 per business",
+    "phone": "(510) 881-7745",
+    "website": "https://www.hayward-ca.gov/services/city-services/free-sand-bags-inclement-weather"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.739529,
+     37.680275
+    ]
+   },
+   "properties": {
+    "name": "Fire Station 6",
+    "city": "Livermore",
+    "county": "Alameda",
+    "address": "4550 East Ave, Livermore, CA 94550",
+    "notes": "24/7. Self-serve; bring a shovel.",
+    "who": "",
+    "limit": "6 per household",
+    "phone": "(925) 960-8020",
+    "website": "https://www.livermoreca.gov/our-community/emergency-preparedness/preparedness/storm-preparedness"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.726873,
+     37.717315
+    ]
+   },
+   "properties": {
+    "name": "Fire Station 8",
+    "city": "Livermore",
+    "county": "Alameda",
+    "address": "5750 Scenic Ave, Livermore, CA 94551",
+    "notes": "24/7. Self-serve; bring a shovel.",
+    "who": "",
+    "limit": "6 per household",
+    "phone": "(925) 960-8020",
+    "website": "https://www.livermoreca.gov/our-community/emergency-preparedness/preparedness/storm-preparedness"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.751765,
+     37.667372
+    ]
+   },
+   "properties": {
+    "name": "Maintenance Service Center",
+    "city": "Livermore",
+    "county": "Alameda",
+    "address": "3500 Robertson Park Rd, Livermore, CA 94550",
+    "notes": "24/7. Self-serve; bring a shovel.",
+    "who": "",
+    "limit": "6 per household",
+    "phone": "(925) 960-8020",
+    "website": "https://www.livermoreca.gov/our-community/emergency-preparedness/preparedness/storm-preparedness"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.807882,
+     37.690377
+    ]
+   },
+   "properties": {
+    "name": "Water Reclamation Plant",
+    "city": "Livermore",
+    "county": "Alameda",
+    "address": "101 W Jack London Blvd, Livermore, CA 94551",
+    "notes": "24/7. Self-serve; bring a shovel.",
+    "who": "",
+    "limit": "6 per household",
+    "phone": "(925) 960-8020",
+    "website": "https://www.livermoreca.gov/our-community/emergency-preparedness/preparedness/storm-preparedness"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.746606,
+     37.723089
+    ]
+   },
+   "properties": {
+    "name": "Bluebell Dr at Hartford Ave",
+    "city": "Livermore (Zone 7 Water Agency)",
+    "county": "Alameda",
+    "address": "2382 Bluebell Dr, Livermore, CA 94551",
+    "notes": "Fill-your-own; bring a shovel.",
+    "who": "",
+    "limit": "10 per household",
+    "phone": "",
+    "website": "https://www.zone7waterca.gov/sandbags"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.776877,
+     37.675277
+    ]
+   },
+   "properties": {
+    "name": "Parkway Park",
+    "city": "Livermore (Zone 7 Water Agency)",
+    "county": "Alameda",
+    "address": "1405 College Ave, Livermore, CA 94550",
+    "notes": "Fill-your-own; bring a shovel.",
+    "who": "",
+    "limit": "10 per household",
+    "phone": "",
+    "website": "https://www.zone7waterca.gov/sandbags"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.807304,
+     37.705444
+    ]
+   },
+   "properties": {
+    "name": "Zone 7 Water Agency office",
+    "city": "Livermore (Zone 7 Water Agency)",
+    "county": "Alameda",
+    "address": "100 N Canyons Pkwy, Livermore, CA 94551",
+    "notes": "24/7. Fill-your-own; bring a shovel.",
+    "who": "",
+    "limit": "10 per household",
+    "phone": "(925) 454-5000",
+    "website": "https://www.zone7waterca.gov/sandbags"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.035833,
+     37.525006
+    ]
+   },
+   "properties": {
+    "name": "Newark Service Center",
+    "city": "Newark",
+    "county": "Alameda",
+    "address": "37440 Filbert St, Newark, CA 94560",
+    "notes": "Monday–Friday business hours; bags are given out once a flood warning is issued or flooding is occurring. Self-serve fill station; bring your own shovel.",
+    "who": "Newark residents; proof of residency and signature required",
+    "limit": "10 per household",
+    "phone": "(510) 578-4806; after hours (510) 578-4237",
+    "website": "https://www.newarkca.gov/departments/public-works/maintenance-division/flooding-and-sandbags"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.202764,
+     37.824253
+    ]
+   },
+   "properties": {
+    "name": "Drainage Services Facility",
+    "city": "Oakland",
+    "county": "Alameda",
+    "address": "5921 Shepherd Canyon Rd, Oakland, CA 94611",
+    "notes": "Monday–Friday 7 AM–3:30 PM. Bags given out as available; you may need to fill your own.",
+    "who": "Oakland residents and businesses; ID showing an Oakland address",
+    "limit": "10 sandbags and 20 feet of plastic sheeting per household or business",
+    "phone": "311 or (510) 615-5566",
+    "website": "https://www.oaklandca.gov/services/emergency-sandbags-and-plastic-sheeting"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.210203,
+     37.748806
+    ]
+   },
+   "properties": {
+    "name": "Municipal Service Center",
+    "city": "Oakland",
+    "county": "Alameda",
+    "address": "7101 Edgewater Dr, Oakland, CA 94621",
+    "notes": "Monday–Friday 8 AM–4 PM; Saturday–Sunday 8 AM–4:30 PM. Bags given out as available; you may need to fill your own.",
+    "who": "Oakland residents and businesses; ID showing an Oakland address",
+    "limit": "10 sandbags and 20 feet of plastic sheeting per household or business",
+    "phone": "311 or (510) 615-5566",
+    "website": "https://www.oaklandca.gov/services/emergency-sandbags-and-plastic-sheeting"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.229051,
+     37.831739
+    ]
+   },
+   "properties": {
+    "name": "City Corporation Yard",
+    "city": "Piedmont",
+    "county": "Alameda",
+    "address": "898 Red Rock Rd, Piedmont, CA 94611",
+    "notes": "Monday–Friday 7 AM–3:30 PM.",
+    "who": "Piedmont residents",
+    "limit": "10 per household",
+    "phone": "(510) 420-3050",
+    "website": "https://piedmont.ca.gov/services___departments/fire/disaster/storms"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.859125,
+     37.67642
+    ]
+   },
+   "properties": {
+    "name": "Operations Services Center",
+    "city": "Pleasanton",
+    "county": "Alameda",
+    "address": "3333 Busch Rd, Pleasanton, CA 94566",
+    "notes": "24/7 during the rainy season. Fill your own; bring a shovel.",
+    "who": "",
+    "limit": "10 per household or business",
+    "phone": "(925) 931-5500",
+    "website": "https://www.cityofpleasantonca.gov/storm-watch/"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.899964,
+     37.678451
+    ]
+   },
+   "properties": {
+    "name": "Zone 7 Water Agency – Parkside",
+    "city": "Pleasanton (Zone 7 Water Agency)",
+    "county": "Alameda",
+    "address": "5997 Parkside Dr, Pleasanton, CA 94588",
+    "notes": "24/7. Fill-your-own; bring a shovel.",
+    "who": "",
+    "limit": "10 per household",
+    "phone": "(925) 454-5000",
+    "website": "https://www.zone7waterca.gov/sandbags"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.145155,
+     37.704762
+    ]
+   },
+   "properties": {
+    "name": "Public Works Service Center",
+    "city": "San Leandro",
+    "county": "Alameda",
+    "address": "14200 Chapman Rd, San Leandro, CA 94578",
+    "notes": "Monday–Friday 8 AM–4:30 PM. Fill your own outside the gate; pre-filled bags for residents with disabilities (call first).",
+    "who": "San Leandro residents; bring ID",
+    "limit": "10 per household",
+    "phone": "(510) 577-3440; after hours (510) 577-2740",
+    "website": "https://sanleandro.org/Storm"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.884544,
+     37.593754
+    ]
+   },
+   "properties": {
+    "name": "Sunol Glen Elementary School",
+    "city": "Sunol (Zone 7 Water Agency)",
+    "county": "Alameda",
+    "address": "11601 Main St, Sunol, CA 94586",
+    "notes": "24/7 self-serve; seasonal, October through March. Fill-your-own; a shovel is required.",
+    "who": "Open to area residents",
+    "limit": "10 per household",
+    "phone": "(925) 454-5000 (Zone 7); (925) 862-2026 (school)",
+    "website": "https://www.zone7waterca.gov/sandbags"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.008088,
+     37.589614
+    ]
+   },
+   "properties": {
+    "name": "Public Works Corporation Yard",
+    "city": "Union City",
+    "county": "Alameda",
+    "address": "34650 7th St, Union City, CA 94587",
+    "notes": "24/7. Pre-filled bags.",
+    "who": "Union City residents and businesses",
+    "limit": "5 per household or business",
+    "phone": "(510) 675-5308",
+    "website": "https://www.unioncityca.gov/864/Winter-Weather-Flooding"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.949133,
+     38.026298
+    ]
+   },
+   "properties": {
+    "name": "Ambrose Community Center",
+    "city": "Unincorporated Contra Costa County",
+    "county": "Contra Costa",
+    "address": "3105 Willow Pass Rd, Bay Point, CA 94565",
+    "notes": "Monday–Friday 7 AM–9 PM. Self-fill; bring a shovel. Bags are in a green bin on the west side of the parking lot.",
+    "who": "Residents and businesses in unincorporated Contra Costa County",
+    "limit": "",
+    "phone": "(925) 313-7000",
+    "website": "https://www.contracosta.ca.gov/10710/Sandbags"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.632833,
+     37.835016
+    ]
+   },
+   "properties": {
+    "name": "Byron Airport",
+    "city": "Unincorporated Contra Costa County",
+    "county": "Contra Costa",
+    "address": "6901 Falcon Way, Byron, CA 94514",
+    "notes": "24/7. Self-fill; bring a shovel. Bags are in a metal bin; sand is on the left just south of 6901 Falcon Way.",
+    "who": "Residents and businesses in unincorporated Contra Costa County",
+    "limit": "",
+    "phone": "(925) 313-7000",
+    "website": "https://www.contracosta.ca.gov/10710/Sandbags"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.07163,
+     38.000323
+    ]
+   },
+   "properties": {
+    "name": "County Public Works",
+    "city": "Unincorporated Contra Costa County",
+    "county": "Contra Costa",
+    "address": "2475 Waterbird Way, Martinez, CA 94553",
+    "notes": "24/7. Self-fill; bring a shovel. Bags are in a gray bin north of the fueling station (nearest cross street Imhoff Dr).",
+    "who": "Residents and businesses in unincorporated Contra Costa County",
+    "limit": "",
+    "phone": "(925) 313-7000",
+    "website": "https://www.contracosta.ca.gov/10710/Sandbags"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.047166,
+     37.899797
+    ]
+   },
+   "properties": {
+    "name": "Howe Homestead",
+    "city": "Unincorporated Contra Costa County",
+    "county": "Contra Costa",
+    "address": "2950 Walnut Blvd, Walnut Creek, CA 94596",
+    "notes": "24/7. Self-fill; bring a shovel. Bags and sand in the parking lot.",
+    "who": "Residents and businesses in unincorporated Contra Costa County",
+    "limit": "",
+    "phone": "(925) 313-7000",
+    "website": "https://www.contracosta.ca.gov/10710/Sandbags"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.667031,
+     37.969128
+    ]
+   },
+   "properties": {
+    "name": "Knightsen Farm Bureau / County Agriculture",
+    "city": "Unincorporated Contra Costa County",
+    "county": "Contra Costa",
+    "address": "3020 Second St, Knightsen, CA 94548",
+    "notes": "24/7. Self-fill; bring a shovel. Bags and sand at the north end of the parking lot.",
+    "who": "Residents and businesses in unincorporated Contra Costa County",
+    "limit": "",
+    "phone": "(925) 313-7000",
+    "website": "https://www.contracosta.ca.gov/10710/Sandbags"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.35397,
+     37.995056
+    ]
+   },
+   "properties": {
+    "name": "West County Detention Facility",
+    "city": "Unincorporated Contra Costa County",
+    "county": "Contra Costa",
+    "address": "5555 Giant Hwy, Richmond, CA 94806",
+    "notes": "24/7. Self-fill; bring a shovel. Bags in a gray bin; sand on the south side of the parking area.",
+    "who": "Residents and businesses in unincorporated Contra Costa County",
+    "limit": "",
+    "phone": "(925) 313-7000",
+    "website": "https://www.contracosta.ca.gov/10710/Sandbags"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.82153,
+     38.015321
+    ]
+   },
+   "properties": {
+    "name": "City Corporation Yard",
+    "city": "Antioch",
+    "county": "Contra Costa",
+    "address": "1201 W 4th St, Antioch, CA 94509",
+    "notes": "24-hour self-serve (enter from N St). Self-fill; shovels, bags and sand stocked.",
+    "who": "Antioch residents",
+    "limit": "",
+    "phone": "(925) 779-6950; after hours (925) 778-2441",
+    "website": "https://www.antiochca.gov/1049/Street-Maintenance"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.640238,
+     38.019089
+    ]
+   },
+   "properties": {
+    "name": "BIMID Mitigation Site entrance – Bethel Island Rd",
+    "city": "Bethel Island (BIMID)",
+    "county": "Contra Costa",
+    "address": "7300 Bethel Island Rd, Bethel Island, CA 94511",
+    "notes": "Bags supplied; bring your own shovel.",
+    "who": "",
+    "limit": "",
+    "phone": "(925) 684-2210",
+    "website": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.621875,
+     38.03258
+    ]
+   },
+   "properties": {
+    "name": "BIMID Mitigation Site entrance – Piper Rd",
+    "city": "Bethel Island (BIMID)",
+    "county": "Contra Costa",
+    "address": "7235 Piper Rd, Bethel Island, CA 94511",
+    "notes": "Bags supplied; bring your own shovel.",
+    "who": "",
+    "limit": "",
+    "phone": "(925) 684-2210",
+    "website": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.638934,
+     38.014713
+    ]
+   },
+   "properties": {
+    "name": "Stone Rd (behind Scout Hall)",
+    "city": "Bethel Island (BIMID)",
+    "county": "Contra Costa",
+    "address": "3085 Stone Rd, Bethel Island, CA 94511",
+    "notes": "Bags supplied; bring your own shovel.",
+    "who": "",
+    "limit": "",
+    "phone": "(925) 684-2210",
+    "website": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.686309,
+     37.958554
+    ]
+   },
+   "properties": {
+    "name": "City self-fill station (next to the Recycled Water Fill Station)",
+    "city": "Brentwood",
+    "county": "Contra Costa",
+    "address": "2251 Elkins Way, Brentwood, CA 94513",
+    "notes": "During rain events, while supplies last. Self-fill; sand, bags and shovels supplied.",
+    "who": "Brentwood residents",
+    "limit": "10 per household",
+    "phone": "(925) 516-6000; after hours (925) 809-7911",
+    "website": "https://www.brentwoodca.gov/government/public-works/street-maintenance"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.937314,
+     37.942421
+    ]
+   },
+   "properties": {
+    "name": "City Maintenance Yard (bags and shovels)",
+    "city": "Clayton",
+    "county": "Contra Costa",
+    "address": "6000 Heritage Trail, Clayton, CA 94517",
+    "notes": "City business hours. Bags and shovels at the yard; sand is across the creek by the Keller Ranch house, north of City Hall.",
+    "who": "Clayton residents only",
+    "limit": "50 per household",
+    "phone": "(925) 673-7300 (Public Works); (925) 673-7350 (police dispatch, after hours)",
+    "website": "https://www.claytonca.gov/230/Street-Maintenance"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.044775,
+     37.982262
+    ]
+   },
+   "properties": {
+    "name": "City Corporation Yard",
+    "city": "Concord",
+    "county": "Contra Costa",
+    "address": "1455 Gasoline Alley, Concord, CA 94520",
+    "notes": "24/7, October through April. Self-fill; tools and bags provided.",
+    "who": "Concord residents",
+    "limit": "25 (per news report)",
+    "phone": "(925) 671-3383 (sandbag hotline)",
+    "website": "https://www.cityofconcord.org/1054/Storm-Preparedness"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.949426,
+     37.80888
+    ]
+   },
+   "properties": {
+    "name": "Town Service Center",
+    "city": "Danville",
+    "county": "Contra Costa",
+    "address": "1000 Sherburne Hills Rd, Danville, CA 94526",
+    "notes": "24/7 until spring. Self-fill; sand, bags and shovel provided.",
+    "who": "Danville residents and businesses",
+    "limit": "20 per household",
+    "phone": "(925) 314-3450",
+    "website": "https://www.danville.ca.gov/190/Sandbags-Creeks-Flood-Prevention"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.299375,
+     37.919157
+    ]
+   },
+   "properties": {
+    "name": "El Cerrito Recycling Center",
+    "city": "El Cerrito & Kensington",
+    "county": "Contra Costa",
+    "address": "7501 Schmidt Ln, El Cerrito, CA 94530",
+    "notes": "October through April, during Recycling Center hours; check in at the front desk. Self-fill; empty bags provided.",
+    "who": "El Cerrito and Kensington residents and businesses; proof of address",
+    "limit": "10 per household or business per year",
+    "phone": "(510) 215-4350 (Recycling Center)",
+    "website": "https://www.el-cerrito.org/375/Flooding-Sandbags"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13437,
+     37.888204
+    ]
+   },
+   "properties": {
+    "name": "Station 1 – Mt Diablo Blvd at Village Center",
+    "city": "Lafayette",
+    "county": "Contra Costa",
+    "address": "Mt Diablo Blvd & Village Center, Lafayette, CA 94549",
+    "notes": "24/7 during the rainy season. Self-serve.",
+    "who": "Lafayette residents and property owners",
+    "limit": "Take only what you need",
+    "phone": "(925) 934-3908",
+    "website": "https://www.lovelafayette.org/city-hall/city-departments/public-works/sandbag-stations"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.088249,
+     37.899013
+    ]
+   },
+   "properties": {
+    "name": "Station 2 – Camino Diablo at Loveland Dr",
+    "city": "Lafayette",
+    "county": "Contra Costa",
+    "address": "Camino Diablo & Loveland Dr, Lafayette, CA 94549",
+    "notes": "24/7 during the rainy season. Self-serve.",
+    "who": "Lafayette residents and property owners",
+    "limit": "Take only what you need",
+    "phone": "(925) 934-3908",
+    "website": "https://www.lovelafayette.org/city-hall/city-departments/public-works/sandbag-stations"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.135346,
+     38.014028
+    ]
+   },
+   "properties": {
+    "name": "City Hall (empty bags)",
+    "city": "Martinez",
+    "county": "Contra Costa",
+    "address": "525 Henrietta St, Martinez, CA 94553",
+    "notes": "Empty bags only; fill at a sand station.",
+    "who": "",
+    "limit": "10",
+    "phone": "",
+    "website": "https://www.cityofmartinez.org/services/storm-preparation"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.129216,
+     38.010485
+    ]
+   },
+   "properties": {
+    "name": "Sand station – Ferry St at Allen St",
+    "city": "Martinez",
+    "county": "Contra Costa",
+    "address": "Ferry St & Allen St, Martinez, CA 94553",
+    "notes": "Sand only; bring bags and a shovel.",
+    "who": "",
+    "limit": "",
+    "phone": "",
+    "website": "https://www.cityofmartinez.org/services/storm-preparation"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.131833,
+     38.001029
+    ]
+   },
+   "properties": {
+    "name": "Sand station – west end of F St",
+    "city": "Martinez",
+    "county": "Contra Costa",
+    "address": "F St & Alhambra Ave, Martinez, CA 94553",
+    "notes": "Sand only; bring bags and a shovel.",
+    "who": "",
+    "limit": "",
+    "phone": "",
+    "website": "https://www.cityofmartinez.org/services/storm-preparation"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.112857,
+     37.809198
+    ]
+   },
+   "properties": {
+    "name": "Rancho Laguna Park parking lot",
+    "city": "Moraga",
+    "county": "Contra Costa",
+    "address": "2101 Camino Pablo, Moraga, CA 94556",
+    "notes": "Self-fill; sand, bags and shovel provided.",
+    "who": "Moraga residents",
+    "limit": "Take only what you need",
+    "phone": "",
+    "website": "https://www.mofd.org/community/safety-tips/sand-bags"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.704226,
+     37.99667
+    ]
+   },
+   "properties": {
+    "name": "City of Oakley sandbag station at Ironhouse Sanitary District",
+    "city": "Oakley",
+    "county": "Contra Costa",
+    "address": "450 Walnut Meadows Dr, Oakley, CA 94561",
+    "notes": "Monday–Friday 8 AM–5 PM, except ISD holidays. Self-fill; sand, bags and shovels provided. Enter from Main St across from Rose Ave, next to the recycled water fill station.",
+    "who": "Oakley residents",
+    "limit": "",
+    "phone": "",
+    "website": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.170463,
+     37.899517
+    ]
+   },
+   "properties": {
+    "name": "Moraga-Orinda Fire Station 43",
+    "city": "Orinda",
+    "county": "Contra Costa",
+    "address": "20 Via Las Cruces, Orinda, CA 94563",
+    "notes": "Self-fill; sand, bags and shovel provided.",
+    "who": "Orinda residents",
+    "limit": "Take only what you need",
+    "phone": "",
+    "website": "https://www.mofd.org/community/safety-tips/sand-bags"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.162621,
+     37.85975
+    ]
+   },
+   "properties": {
+    "name": "Moraga-Orinda Fire Station 44",
+    "city": "Orinda",
+    "county": "Contra Costa",
+    "address": "295 Orchard Rd, Orinda, CA 94563",
+    "notes": "Self-fill; sand, bags and shovel provided.",
+    "who": "Orinda residents",
+    "limit": "Take only what you need",
+    "phone": "",
+    "website": "https://www.mofd.org/community/safety-tips/sand-bags"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.291524,
+     38.003051
+    ]
+   },
+   "properties": {
+    "name": "Plum & Peach Streets public parking lot (rear, off Tennent Ave)",
+    "city": "Pinole",
+    "county": "Contra Costa",
+    "address": "1281 Plum St, Pinole, CA 94564",
+    "notes": "Self-serve sand and bags; bring a shovel in case the one on site is in use.",
+    "who": "Pinole residents",
+    "limit": "First come, first served",
+    "phone": "",
+    "website": "https://www.pinole.gov/stormwater-drainage/"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.883122,
+     38.025888
+    ]
+   },
+   "properties": {
+    "name": "City Corporation Yard",
+    "city": "Pittsburg",
+    "county": "Contra Costa",
+    "address": "357 E 12th St, Pittsburg, CA 94565",
+    "notes": "7:30 AM–3:30 PM, while supplies last.",
+    "who": "Pittsburg residents; check in at the front office with ID showing Pittsburg residency",
+    "limit": "8 per household",
+    "phone": "(925) 252-4963 (call ahead for loading help)",
+    "website": "https://www.pittsburgca.gov/services/public-works/emergency-preparedness-resources"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.063532,
+     37.947424
+    ]
+   },
+   "properties": {
+    "name": "City Hall parking lot (at Trelany Rd, behind Michaels)",
+    "city": "Pleasant Hill",
+    "county": "Contra Costa",
+    "address": "100 Gregory Ln, Pleasant Hill, CA 94523",
+    "notes": "During the winter storm season. Fill-your-own station.",
+    "who": "",
+    "limit": "",
+    "phone": "",
+    "website": "https://www.phillca.gov/index.aspx?NID=731"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.067787,
+     37.962029
+    ]
+   },
+   "properties": {
+    "name": "Community Center parking lot (behind the Police Department)",
+    "city": "Pleasant Hill",
+    "county": "Contra Costa",
+    "address": "320 Civic Dr, Pleasant Hill, CA 94523",
+    "notes": "During the winter storm season. Fill-your-own station.",
+    "who": "",
+    "limit": "",
+    "phone": "",
+    "website": "https://www.phillca.gov/index.aspx?NID=731"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.081938,
+     37.934031
+    ]
+   },
+   "properties": {
+    "name": "The Old School House parking lot",
+    "city": "Pleasant Hill",
+    "county": "Contra Costa",
+    "address": "2050 Oak Park Blvd, Pleasant Hill, CA 94523",
+    "notes": "During the winter storm season. Fill-your-own station.",
+    "who": "",
+    "limit": "",
+    "phone": "",
+    "website": "https://www.phillca.gov/index.aspx?NID=731"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.323854,
+     37.915159
+    ]
+   },
+   "properties": {
+    "name": "Bayview Library parking lot (next door to the Bayview fire station)",
+    "city": "Richmond",
+    "county": "Contra Costa",
+    "address": "5100 Hartnett Ave, Richmond, CA 94804",
+    "notes": "Self-fill; bags and shovels available.",
+    "who": "Richmond residents",
+    "limit": "10",
+    "phone": "(510) 231-3011 (delivery for elderly or disabled residents)",
+    "website": "https://www.ci.richmond.ca.us/4478/Alerts-and-Notifications"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.360027,
+     37.931653
+    ]
+   },
+   "properties": {
+    "name": "City Corporation Yard back gate (at the Richmond Greenway)",
+    "city": "Richmond",
+    "county": "Contra Costa",
+    "address": "10 Harbour Way, Richmond, CA 94801",
+    "notes": "Self-fill; bags and shovels available.",
+    "who": "Richmond residents",
+    "limit": "10",
+    "phone": "(510) 231-3011 (delivery for elderly or disabled residents)",
+    "website": "https://www.ci.richmond.ca.us/4478/Alerts-and-Notifications"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.353803,
+     37.961266
+    ]
+   },
+   "properties": {
+    "name": "City Corporation Yard (pick up bags)",
+    "city": "San Pablo",
+    "county": "Contra Costa",
+    "address": "1515 Folsom Ave, San Pablo, CA 94806",
+    "notes": "Empty bags only; fill them at the Davis Park entrance, 1665 Folsom Ave.",
+    "who": "San Pablo residents; show ID",
+    "limit": "10 per household",
+    "phone": "(510) 215-3070",
+    "website": "https://www.sanpabloca.gov/2671/Sand-Bags"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.352405,
+     37.960905
+    ]
+   },
+   "properties": {
+    "name": "Davis Park entrance (sand)",
+    "city": "San Pablo",
+    "county": "Contra Costa",
+    "address": "1665 Folsom Ave, San Pablo, CA 94806",
+    "notes": "24 hours a day during winter months. Sand only; pick up bags at the Corporation Yard, 1515 Folsom Ave.",
+    "who": "San Pablo residents",
+    "limit": "",
+    "phone": "(510) 215-3070",
+    "website": "https://www.sanpabloca.gov/2671/Sand-Bags"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.956032,
+     37.749388
+    ]
+   },
+   "properties": {
+    "name": "Athan Downs",
+    "city": "San Ramon",
+    "county": "Contra Costa",
+    "address": "Montevideo Dr near San Ramon Valley Blvd, San Ramon, CA 94583",
+    "notes": "Bags and sand provided; bring a shovel.",
+    "who": "San Ramon residents and businesses",
+    "limit": "",
+    "phone": "(925) 973-2800",
+    "website": "https://www.sanramon.ca.gov/our_city/departments_and_divisions/public_works/storm_drainage_water/sandbag_distribution"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.954584,
+     37.767925
+    ]
+   },
+   "properties": {
+    "name": "Central Park",
+    "city": "San Ramon",
+    "county": "Contra Costa",
+    "address": "Alcosta Blvd next to the San Ramon Community Center, San Ramon, CA 94583",
+    "notes": "Bags and sand provided; bring a shovel.",
+    "who": "San Ramon residents and businesses",
+    "limit": "",
+    "phone": "(925) 973-2800",
+    "website": "https://www.sanramon.ca.gov/our_city/departments_and_divisions/public_works/storm_drainage_water/sandbag_distribution"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.896345,
+     37.752003
+    ]
+   },
+   "properties": {
+    "name": "San Ramon Sports Park",
+    "city": "San Ramon",
+    "county": "Contra Costa",
+    "address": "Sherwood Way, San Ramon, CA 94582",
+    "notes": "Bags and sand provided; bring a shovel.",
+    "who": "San Ramon residents and businesses",
+    "limit": "",
+    "phone": "(925) 973-2800",
+    "website": "https://www.sanramon.ca.gov/our_city/departments_and_divisions/public_works/storm_drainage_water/sandbag_distribution"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.924968,
+     37.727818
+    ]
+   },
+   "properties": {
+    "name": "Sunny Glen Community Center",
+    "city": "San Ramon",
+    "county": "Contra Costa",
+    "address": "Southeast corner of Fircrest Ln and Craydon Cir, San Ramon, CA 94583",
+    "notes": "Bags and sand provided; bring a shovel.",
+    "who": "San Ramon residents and businesses",
+    "limit": "",
+    "phone": "(925) 973-2800",
+    "website": "https://www.sanramon.ca.gov/our_city/departments_and_divisions/public_works/storm_drainage_water/sandbag_distribution"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.042585,
+     37.919903
+    ]
+   },
+   "properties": {
+    "name": "Heather Farm Park – Ballfield 5 & 6 parking lot (next to the Dog Park)",
+    "city": "Walnut Creek",
+    "county": "Contra Costa",
+    "address": "301 N San Carlos Dr, Walnut Creek, CA 94598",
+    "notes": "Winter months. Bags and sand provided; bring a shovel.",
+    "who": "Walnut Creek residents and local businesses",
+    "limit": "",
+    "phone": "(925) 943-5854",
+    "website": "https://www.walnutcreekca.gov/government/public-works/flood-preparedness-and-sandbag-stations"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.047166,
+     37.899797
+    ]
+   },
+   "properties": {
+    "name": "Howe Homestead Park parking lot",
+    "city": "Walnut Creek",
+    "county": "Contra Costa",
+    "address": "2950 Walnut Blvd, Walnut Creek, CA 94596",
+    "notes": "Winter months. Bags and sand provided; bring a shovel.",
+    "who": "Walnut Creek residents and local businesses",
+    "limit": "",
+    "phone": "(925) 943-5854",
+    "website": "https://www.walnutcreekca.gov/government/public-works/flood-preparedness-and-sandbag-stations"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.056987,
+     37.88546
+    ]
+   },
+   "properties": {
+    "name": "Lancaster Rd near Orchard Ln",
+    "city": "Walnut Creek",
+    "county": "Contra Costa",
+    "address": "Lancaster Rd & Orchard Ln, Walnut Creek, CA 94595",
+    "notes": "Winter months. Bags and sand provided; bring a shovel.",
+    "who": "Walnut Creek residents and local businesses",
+    "limit": "",
+    "phone": "(925) 943-5854",
+    "website": "https://www.walnutcreekca.gov/government/public-works/flood-preparedness-and-sandbag-stations"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.074027,
+     37.923473
+    ]
+   },
+   "properties": {
+    "name": "Larkey Park parking lot",
+    "city": "Walnut Creek",
+    "county": "Contra Costa",
+    "address": "2771 Buena Vista Ave, Walnut Creek, CA 94597",
+    "notes": "Winter months. Bags and sand provided; bring a shovel.",
+    "who": "Walnut Creek residents and local businesses",
+    "limit": "",
+    "phone": "(925) 943-5854",
+    "website": "https://www.walnutcreekca.gov/government/public-works/flood-preparedness-and-sandbag-stations"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.028694,
+     37.876798
+    ]
+   },
+   "properties": {
+    "name": "Rudgear Park parking lot",
+    "city": "Walnut Creek",
+    "county": "Contra Costa",
+    "address": "2261 Dapplegray Ln, Walnut Creek, CA 94596",
+    "notes": "Winter months. Bags and sand provided; bring a shovel.",
+    "who": "Walnut Creek residents and local businesses",
+    "limit": "",
+    "phone": "(925) 943-5854",
+    "website": "https://www.walnutcreekca.gov/government/public-works/flood-preparedness-and-sandbag-stations"
+   }
+  }
+ ]
+}
