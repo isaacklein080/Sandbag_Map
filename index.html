@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Free Sandbag Locations</title>
+  <link rel="stylesheet" href="./style.css">
+  <link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/v3.15.0/mapbox-gl.css'>
+</head>
+  <body>
+    <h1 class="map-heading">Free Sandbag Locations</h1>
+    <h2 class="map-subtitle">Alameda &amp; Contra Costa Counties 2026 </h2>
+<button id="data-info-btn" class="data-info-button">📊 Data Context</button>
+<div id="data-panel" class="data-panel">
+  <button class="close-panel">✕</button>
+  <h3>About This Data</h3>
+  <p><strong>Source:</strong> City, county and water agency sandbag pages, the ALCO VOAD flooding resources list, 211 Alameda County and Contra Costa County Public Works. Checked November 10–11, 2026.</p>
+  <p><strong>Before You Go:</strong></p>
+  <ul>
+    <li>Most sites serve only residents of that city, or of unincorporated county areas</li>
+    <li>Supplies run out during storms and most sites are unstaffed</li>
+    <li>Call the number in the pop-up to confirm before driving over</li>
+  </ul>
+</div>
+
+<!-- Address finder (new) -->
+<section id="finder" class="finder" aria-label="Find your nearest sandbag location">
+  <h3 class="finder-title">Find Your Nearest Sandbag Location</h3>
+  <p class="finder-subtitle">Enter your home address to find the closest sandbag distribution site that serves your area.</p>
+  <form id="finder-form" class="finder-form" autocomplete="off">
+    <label for="finder-input" class="finder-label">Home address</label>
+    <div class="finder-row">
+      <input id="finder-input" class="finder-input" type="text" name="finder-address"
+             placeholder="Street address and city" autocomplete="off" required>
+      <button id="finder-search" class="finder-button" type="submit">Search</button>
+    </div>
+    <p class="finder-privacy">Your address is used only for this search and is not saved.</p>
+  </form>
+  <div id="finder-status" class="finder-status" role="status" aria-live="polite"></div>
+  <div id="finder-results" class="finder-results"></div>
+  <button id="finder-clear" class="finder-clear" type="button" hidden>Clear and search again</button>
+</section>
+
+    <div id="map"></div>
+
+    <script src="https://api.mapbox.com/mapbox-gl-js/v3.15.0/mapbox-gl.js"></script>
+    <script src="./script.js"></script>
+  </body>
+</html>
